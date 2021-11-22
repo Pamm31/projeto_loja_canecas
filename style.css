@@ -1,0 +1,78 @@
+/* area do cabesalio */
+
+.logo {
+    display: flex;
+    float: left; 
+}
+
+.tamlogo {
+    width: 150px;
+    height: 180px;
+
+}
+
+body {
+    background: #e6e6e6;
+}
+
+/*.flexivel {
+    display: flex;
+}
+*/
+h1 {
+    padding: 60px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+nav {
+    clear: both;
+    margin: 10px auto;
+
+}
+
+header {
+    background-color:#bdd3d1;
+}
+
+.menu {
+    text-align: center;
+    padding: 15px;
+    
+}
+
+a  {
+    margin: 10px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #576e6c;
+    
+
+}
+
+a:hover {
+    color: white;
+    background-color: #576e6c;
+}
+
+/* area principal */
+
+.tamimgcorpo {
+    width: 350px;
+    height: 450px;
+    margin: 30px;
+    
+}
+
+.divmain {
+    background:
+}
+
+/* area rodape */
+
+footer {
+    background-color: #bdd3d1;
+    text-align: center;
+}
