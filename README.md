@@ -1,2 +1,9 @@
 # projeto_loja_canecas 
-lOJA DE CANECAS PERSONALIZADAS 
+
+Loja de canecas personalizadas 
+
+Tecnologias usadas: HTML e CSS
+
+Site elaborado para o projeto Hands On
+
+
