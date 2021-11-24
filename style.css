@@ -81,9 +81,26 @@ nav a:hover {
 }
 
 .divmain {
-    background:
+    display: flex;
+    flex-wrap: wrap;
 }
 
+.divmain p {
+     text-align: center;
+    
+}
+
+.produto1 {
+    width: 500px;
+    height: 550px;
+    text-align: center;
+    margin-left: 400px;
+    
+
+}
+main >p {
+    text-align: center;
+}
 /* area rodape */
 
 footer {
@@ -113,12 +130,31 @@ footer {
         margin: auto;
         width: 360px;
     }
+    
+    .produto1 {
+        width: 350px;
+        height: 400px;
+        margin-left: 0;
+
+        
+        
+    
+    }
 }
 
 @media only screen and (max-width: 1024px) {
     .tamimgcorpo {
         margin: 70px;
         
+    }
+    .produto1 {
+        width: 450px;
+        height: 500px;
+        margin-left: 300px;
+
+        
+        
+    
     }
 }
 
